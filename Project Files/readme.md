@@ -1,9 +1,7 @@
 project exceutable files
 
-
 Coding part  
 
- 
 Project Name: Hematovision 
  
 App.py page 
