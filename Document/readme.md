@@ -14,5 +14,6 @@ Advanced Blood Cell Classification Using Transfer Learning
  To develop a robust and accurate model that classifies blood cell images into categories such as:- Neutrophils- Lymphocytes- Monocytes- Eosinophils- Basophils
  Using transfer learning enhances performance by leveraging pre-trained Convolutional Neural
  Networks (CNNs) instead of training a model from scratch.
+ 
  Technologies Used-
  Python- TensorFlow / Keras- OpenCV (for preprocessing)- Transfer Learning Models: MobileNetV2, ResNet50, VGG16- Flask (for deployment)- Matplotlib & Seaborn (for 
