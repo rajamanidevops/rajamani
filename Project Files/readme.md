@@ -1,8 +1,7 @@
 project exceutable files
 
-Coding part  
-
-Project Name: Hematovision
+Coding part
+Project Name : Hematovision
 
 App.py page 
 from flask import Flask, render_template, request, redirect, url_for 
